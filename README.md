@@ -3,15 +3,16 @@
   <a href="#">
     <img src="assets/i-recycle.png" alt="logo i-recycle" height="200">
   </a>
-  <br>
-
+  
   <p align="center">
     <img src="https://img.shields.io/badge/Team-3R-5ff816">
     <img src="https://img.shields.io/badge/ID-B21_CAP0122-5ff816?">
   </p>
 
-  <h1 align="center">i-recycle (Garbage Classifier Application) Project</h1>
+  <h1 align="center">i-recycle Project</h1>
   
+   <p align="center">Garbage Classifier Application</p>
+   
 ## Team Members
 
 | Student ID |             Member             |        Path        |                Project Role                |                                                  Contacts                                                  |
